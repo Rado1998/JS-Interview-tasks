@@ -1,0 +1,27 @@
+{
+  "name": "js-interview-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -p ./tsconfig.json && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rado1998/JS-Interview-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rado1998/JS-Interview-tasks/issues"
+  },
+  "homepage": "https://github.com/Rado1998/JS-Interview-tasks#readme",
+  "dependencies": {
+    "rxjs": "^7.5.7",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.4"
+  }
+}
